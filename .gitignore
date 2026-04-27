@@ -6,3 +6,11 @@ coverage/
 *.log
 .env*
 !.env.example
+.tools/
+ANALYSIS.md
+CONTEXT.md
+GOOGLE_AI_STUDIO_UPLOAD.md
+legacy-standalone/
+scripts/
+excel-darba-r*ks (1)/
+excel-darba-r*ks (2)/
